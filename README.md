@@ -1,1 +1,6 @@
-# study_management
+# Gerenciamneto de Estudos
+
+Estudando:
+
+- Ruby
+- Ruby POO
