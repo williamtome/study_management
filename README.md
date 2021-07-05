@@ -15,3 +15,10 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 * PHP OO - Alura
 * JavaScript - DevPleno
 * Inglês - Goodstart
+
+## Objetivo Anual
+
+* Aprender uma nova linguagem de programação
+
+- 2021: JavaScript
+- 2022: Ruby e Rails
