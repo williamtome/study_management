@@ -15,4 +15,3 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 * PHP OO - Alura
 * JavaScript - DevPleno
 * Inglês - Goodstart
-* 
