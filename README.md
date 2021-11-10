@@ -3,16 +3,15 @@
 ## Agenda
 
 **Foco e disciplina, degraus para o sucesso!** <br />
-**Duração deste cronograma**: *01/07- 30/10*
+**Duração deste cronograma**: *11/11- 10/12*
 
 Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 05:00 | PHP OO  | PHP OO | PHP OO | PHP OO | PHP OO | Estudo Livre |
-| 06:00 | JavaScript | JavaScript | JavaScript | JavaScript | JavaScript | Estudo Livre |
-| 07:00 | Caminhada | Caminhada | Caminhada | Caminhada | Caminhada | Livre |
-| 18:00 |  |  | Inglês | Inglês |  |  |
+| 05:00 | Solid com PHP | JavaScript | Solid com PHP | javaScript | Solid com PHP | Estudo Livre |
+| 06:00 - 07:00 | Academia | Academia | Academia | Academia | Academia |  |
+| 08:00 - 09:00 | Inglês |  | Inglês |  |  |  |
 
-* PHP OO - Alura
+* Solid com PHP - Alura
 * JavaScript - DevPleno
 * Inglês - Goodstart
 
@@ -20,5 +19,5 @@ Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 
 * Aprender uma nova linguagem de programação
 
-- 2021: JavaScript
-- 2022: Ruby e Rails
+- 2021: PHP e JavaScript
+- 2022: React
