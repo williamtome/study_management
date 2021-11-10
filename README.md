@@ -7,7 +7,7 @@
 
 Horário | Segunda | Terça | Quarta | Quinta | Sexta | Sábado |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 05:00 | Solid com PHP | JavaScript | Solid com PHP | javaScript | Solid com PHP | Estudo Livre |
+| 05:00 - 06:00 | Solid com PHP | JavaScript | Solid com PHP | JavaScript | Solid com PHP | Estudo Livre |
 | 06:00 - 07:00 | Academia | Academia | Academia | Academia | Academia |  |
 | 08:00 - 09:00 | Inglês |  | Inglês |  |  |  |
 
